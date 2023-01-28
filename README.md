@@ -1,4 +1,4 @@
-My name is Carson, and this is my repo.
+My name is Carson, and this is my profile.
 
 
 
